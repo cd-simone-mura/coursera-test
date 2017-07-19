@@ -1,0 +1,22 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #94b4e8;
+	font-family:  'Indie Flower', cursive;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: #662da8;
+	border-radius: 0;
+	border: 0;
+}
+
+/** logo **/
+#logo-img {
+	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nuvo%21a_rosquilla.svg/128px-Nuvo%21a_rosquilla.svg.png') no-repeat;
+	width: 128px;
+	height: 128px;
+	margin: 10px;
+}
+
