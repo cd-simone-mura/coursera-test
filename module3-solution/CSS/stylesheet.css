@@ -80,6 +80,12 @@ body {
 	border: 2px solid #ffec42;
 }
 
+#section1 {
+	background-color: #257a34;
+	height: 1000px;
+
+}
+
 /**************Module2 copy *******************/
 h2	{
 	color: #db750f;
